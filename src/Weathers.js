@@ -20,7 +20,7 @@ function Weathers() {
 
   return (
     <div classname="container">
-      <p className="heading">Weather-Watch</p>
+      <p className="heading">Mausam-Mitra</p>
       <input
         type="text"
         placeholder="Enter city name"
