@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-image: url(new.jpeg);
+    background-image: url(new3.jpeg);
     background-repeat: no-repeat;
      
     background-size: cover;
@@ -50,7 +50,7 @@ body {
   }
   button{
     background-color: #A17FB5;
-    color: #FED3FE;
+     
     font-weight: bolder;
     font-size: x-large;
 
@@ -66,7 +66,7 @@ body {
 
   .heading{
     text-align: center;
-    color: #f6b4f6;
+    
     font-size: xx-large;
     
     font-weight: 900;
